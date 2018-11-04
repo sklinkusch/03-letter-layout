@@ -2,7 +2,7 @@
 
 Create a letter using all your knowledge that you collected over the last weeks (use semantic tags).
 
-![Result Mockup](assets/img/Letter Mockup.png)
+![Result Mockup](./assets/img/preview.png)
 
 ## Info
 

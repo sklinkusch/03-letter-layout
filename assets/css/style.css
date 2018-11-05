@@ -31,7 +31,24 @@
   color: #D8267D;
 }
 
-.address {
+.address, aside {
   font-family: Lato;
   color: #7a7a7a;
+}
+
+main {
+  font-family: Lato;
+  color: #000000;
+}
+
+.name {
+  float: left;
+}
+
+.address {
+  float: right;
+}
+
+.clearfix {
+  clear: both;
 }

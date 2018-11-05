@@ -39,19 +39,19 @@
        url('../fonts/lato-v14-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
 }
 
-.name p {
+.montserrat p {
   font-family: 'Montserrat';
   font-size: 70pt;
   font-weight: bold;
   color: #D8267D;
 }
 
-.address, .margin {
+.latogrey {
   font-family: Lato;
   color: #7a7a7a;
 }
 
-.maintext {
+.latoblack {
   font-family: Lato;
   color: #000000;
 }

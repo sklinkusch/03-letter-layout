@@ -12,7 +12,7 @@
        url('../fonts/montserrat-v12-latin-regular.svg#Montserrat') format('svg'); /* Legacy iOS */
 }
 /* montserrat-900 - latin */
-@font-face {
+/*@font-face {
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 900;
@@ -23,7 +23,7 @@
        url('../fonts/montserrat-v12-latin-900.woff') format('woff'), /* Modern Browsers */
        url('../fonts/montserrat-v12-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/montserrat-v12-latin-900.svg#Montserrat') format('svg'); /* Legacy iOS */
-}
+}*/
 
 /* lato-regular - latin */
 @font-face {
@@ -39,8 +39,8 @@
        url('../fonts/lato-v14-latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
 }
 
-.name {
-  font-family: Montserrat;
+.name p {
+  font-family: 'Montserrat';
   font-size: 70pt;
   font-weight: bold;
   color: #D8267D;

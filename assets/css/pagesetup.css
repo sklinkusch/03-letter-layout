@@ -1,0 +1,26 @@
+.name {
+  float: left;
+}
+
+.address {
+  float: right;
+}
+
+.clearfix {
+  clear: both;
+  height: 50px;
+}
+
+.margin{
+  float: left;
+  width: 15%;
+}
+
+.maintext {
+  float: right;
+  width: 85%
+}
+
+.margin p {
+  margin-bottom: 80px;
+}

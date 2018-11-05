@@ -5,6 +5,7 @@
 
 body {
   background-color: #a7a7a7;
+  box-sizing: border-box;
 }
 
 p {
@@ -12,7 +13,7 @@ p {
 }
 
 .paper {
-  width: 21.3cm;
+  width: 21.0cm;
   height: 29.7cm;
   margin: 20px auto;
   background-color: white;
@@ -37,7 +38,7 @@ p {
 }
 
 .maintext {
-  width: 75%
+  width: 70%
 }
 
 .margin p {

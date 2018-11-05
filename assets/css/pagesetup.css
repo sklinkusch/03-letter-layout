@@ -4,21 +4,27 @@
 }
 
 body {
-  width: 21.3cm;
-  height: 29.7cm;
-  margin: 20px;
+  background-color: #a7a7a7;
 }
 
 p {
   margin-bottom: 20px;
 }
 
+.paper {
+  width: 21.3cm;
+  height: 29.7cm;
+  margin: 20px auto;
+  background-color: white;
+}
 .left {
   float: left;
+  margin-left: 20px;
 }
 
 .right {
   float: right;
+  margin-right: 20px;
 }
 
 .clearfix {
@@ -36,4 +42,8 @@ p {
 
 .margin p {
   margin-bottom: 80px;
+}
+
+.name, .address {
+  margin-top: 20px;
 }

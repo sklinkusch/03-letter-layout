@@ -31,12 +31,12 @@
   color: #D8267D;
 }
 
-.address, aside {
+.address, .margin {
   font-family: Lato;
   color: #7a7a7a;
 }
 
-main {
+.maintext {
   font-family: Lato;
   color: #000000;
 }
@@ -51,4 +51,14 @@ main {
 
 .clearfix {
   clear: both;
+}
+
+.margin{
+  float: left;
+  width: 15%;
+}
+
+.maintext {
+  float: right;
+  width: 85%
 }
